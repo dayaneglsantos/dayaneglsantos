@@ -1,16 +1,16 @@
-### Hi there 👋
+Olá.... aqui é a Dayane 👋🏻
 
-<!--
-**dayaneglsantos/dayaneglsantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Iniciante no mundo da programação 💻
 
-Here are some ideas to get you started:
+Atualmente estudando as linguagens HTML e CSS.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline-block">
+<a href="https://www.instagram.com/dayaneglsantos/">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
+</a>
+  
+<a href="https://www.linkedin.com/in/dayane-gabrielly-l-dos-santos-08318515a/">
+    <img height="30" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
+</a>
+</div>
+<hr>
