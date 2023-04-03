@@ -2,7 +2,7 @@ Olá.... aqui é a Dayane 👋🏻
 
 💻 Iniciante no mundo da programação 💻
 
-Atualmente estudando as linguagens HTML e CSS.
+Cursando: Engenheiro Front-end na EBAC.
 
 <div style="display: inline-block">
 <a href="https://www.instagram.com/dayaneglsantos/">
