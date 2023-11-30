@@ -1,6 +1,7 @@
 Olá.... aqui é a Dayane 👋🏻
 
-💻 Iniciante no mundo da programação 💻
+💻 Iniciante na programação 💻
+
 
 
 <div >
