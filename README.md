@@ -5,8 +5,8 @@ Olá.... aqui é a Dayane 👋🏻
 
 Cursando: Engenheiro Front-end na EBAC.
 
-<div>
-<a href="https://github.com/dayaneglsantos">
+<div style="text-decoration: none">
+<a href="https://github.com/dayaneglsantos" >
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&layout=compact&langs_count=7&theme=dark"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneglsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
