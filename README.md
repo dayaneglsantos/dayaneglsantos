@@ -22,12 +22,12 @@ Hello.... aqui é a Dayane 👋🏻
 </div>
 
 
-<div style="display: inline-block">
-<a href="https://www.instagram.com/dayaneglsantos/" style="text-decoration:none;">
+<div >
+<a href="https://www.instagram.com/dayaneglsantos/" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png">
 </a>
   
-<a href="https://www.linkedin.com/in/dayaneglsantos/" style="text-decoration:none;">
+<a href="https://www.linkedin.com/in/dayaneglsantos/" target="_blank">
     <img height="30" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png">
 </a>
 </div>
