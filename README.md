@@ -1,13 +1,20 @@
-Olá.... aqui é a Dayane 👋🏻
+Hello.... aqui é a Dayane 👋🏻
 
-💻 Iniciante na programação 💻
+🚀 Front End Developer 🚀
 
+<div>
+    <i class="devicon-html5-plain colored"></i>
+    <i class="devicon-css3-plain colored"></i>
+    <i class="devicon-javascript-plain colored"></i>
+    <i class="devicon-react-original colored"></i>
+    <i class="devicon-redux-original colored"></i>
+</div>
 
 
 <div >
-<a href="https://github.com/dayaneglsantos">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&layout=compact&langs_count=7&theme=dark"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneglsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <a href="https://github.com/dayaneglsantos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&layout=compact&langs_count=7&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneglsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
 </div>
 
 
