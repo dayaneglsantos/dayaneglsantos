@@ -2,13 +2,7 @@ Hello.... aqui é a Dayane 👋🏻
 
 🚀 Front End Developer 🚀
 
-<div>
-    <i height="30" class="devicon-html5-plain colored"></i>
-    <i height="30" class="devicon-css3-plain colored"></i>
-    <i height="30" class="devicon-javascript-plain colored"></i>
-    <i height="30" class="devicon-react-original colored"></i>
-    <i height="30" class="devicon-redux-original colored"></i>
-</div>
+
 
 
 <div >
