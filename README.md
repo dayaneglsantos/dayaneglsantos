@@ -1,6 +1,6 @@
 Hello.... aqui é a Dayane 👋🏻
 
-🚀 Front End Developer 🚀
+🚀 Desenvolvedora Front End 🚀
 
 
 <div>
