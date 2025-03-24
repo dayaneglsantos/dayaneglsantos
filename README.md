@@ -1,24 +1,29 @@
-Hello.... aqui é a Dayane 👋🏻
+Hello.... aqui é a Dayane, desenvolvedora Front End 👋🏻
 
-🚀 Desenvolvedora Front End 🚀
+## 🚀 Tecnologias mais usadas
 
+Estas são algumas das principais ferramentas e tecnologias que utilizo :
 
-<div>
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /> 
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
+###
 
-<div>
-    <a href="https://github.com/dayaneglsantos" >
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&layout=compact&langs_count=7&theme=dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dayaneglsantos&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-</div>
+![dayaneglsantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&theme=omni&show_icons=true&hide_border=false&layout=compact)
 
-<div >
-<a href="https://www.instagram.com/dayaneglsantos/" target="_blank" style="text-decoration:none;"> <img height="30" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"> </a>  
-<a href="https://www.linkedin.com/in/dayaneglsantos/" target="_blank" > <img height="30" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
-</div>
+## 🌍 Vamos Conectar!
+
+Sinta-se à vontade para me contatar através das seguintes plataformas:
+
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dayaneglsantos)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayaneglsantos)
+[![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:dayaneglsantos@gmail.com)
+
+---
+
 
