@@ -1,6 +1,6 @@
 Hello.... aqui é a Dayane, desenvolvedora Front End 👋🏻
 
-## 🚀 Tecnologias mais usadas
+### 🚀 Tecnologias mais usadas
 
 Estas são algumas das principais ferramentas e tecnologias que utilizo :
 
@@ -16,7 +16,7 @@ Estas são algumas das principais ferramentas e tecnologias que utilizo :
 
 ![dayaneglsantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayaneglsantos&theme=omni&show_icons=true&hide_border=false&layout=compact)
 
-## 🌍 Vamos Conectar!
+### 🌍 Vamos Conectar!
 
 Sinta-se à vontade para me contatar através das seguintes plataformas:
 
