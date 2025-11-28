@@ -22,7 +22,6 @@ Estas são algumas das principais ferramentas e tecnologias que utilizo :
 
 Sinta-se à vontade para me contatar através das seguintes plataformas:
 
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/dayaneglsantos)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dayaneglsantos)
 [![Gmail](https://img.shields.io/badge/-Gmail-%23333?style=flat-square&logo=gmail&logoColor=white)](mailto:dayaneglsantos@gmail.com)
 
